@@ -1,4 +1,4 @@
-name: web_socket_channel
+name: socket_channel
 version: 1.0.0
 
 description: >-
